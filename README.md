@@ -1,6 +1,6 @@
 # TCM: Truncated Consistency Models
 ![alt text](assets/teaser.png)
-This is the official implementation of our paper [Truncated Consistency Models](https://truncated-cm.github.io/).
+This is the official implementation of our paper [Truncated Consistency Models](https://truncated-cm.github.io/) (ICLR 2025).
 
 - Tested environment: PyTorch 2.3.1, Python 3.8.13.
 - Dependencies: `pip install click Pillow psutil requests scipy tqdm matplotlib wandb`
